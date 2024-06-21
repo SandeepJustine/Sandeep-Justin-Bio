@@ -79,10 +79,10 @@
   <img src="https://img.shields.io/badge/Laravel-02569B?style=for-the-badge&logo=Laravel&logoColor=white%22%20alt="Laravel"/>  
 </div>
 
-<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
+<h2 align="center" class="section-heading">👾 Databases and Database Systems</h2>
 <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/MysQL-313131?style=for-the-badge&logo=MySQL-Database&logoColor=white" alt="MySQl Database"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3DS Max"/>
   <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
