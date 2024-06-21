@@ -82,16 +82,11 @@
 <h2 align="center" class="section-heading">👾 Databases and Database Systems</h2>
 <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/MysQL-313131?style=for-the-badge&logo=MySQL-Database&logoColor=white" alt="MySQl Database"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3DS Max"/>
-  <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
-  <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhino"/>
-  <img src="https://img.shields.io/badge/MeshLab-FF4000?style=for-the-badge" alt="MeshLab"/>
-  <img src="https://img.shields.io/badge/ZBrush-5491F1?style=for-the-badge" alt="ZBrush"/>
-  <img src="https://img.shields.io/badge/Revit-FF9E0B?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit"/>
-  <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
-  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
+  <img src="https://img.shields.io/badge/MysQL-313131?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQl Database"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0696D7?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="SQL Lite"/>
+  <img src="https://img.shields.io/badge/Oracle-0696D7?style=for-the-badge&logo=Oracle&logoColor=white" alt="Maya"/>
+  <img src="https://img.shields.io/badge/Apache Cassandra-801010?style=for-the-badge&logo=Apache Cassandra&logoColor=white" alt="Rhino"/>
 </div>
 
 <div align="center">
