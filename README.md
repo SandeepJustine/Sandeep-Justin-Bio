@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Malawian citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+    <p>I'm a Software Engineering specialist at Accenture with Malawian citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and Machine Learning and Artificial Intelligence(AI) and BlockChain Technology.</p>
 </div>
 
 <div align="center">
