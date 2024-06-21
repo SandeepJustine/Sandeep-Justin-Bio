@@ -100,7 +100,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandeep-sketchy&theme=github_dark" alt="Sandeep GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-skethy&theme=merko" alt="Sandeep-sketchy Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep-sketchy&theme=dark" alt="GitHub Streak" />></td>
     </tr>
  </table>
 
