@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Welcome to my GitHub profile! I'm Sandee Joseph Justin, a passionate software developer with a knack for creating innovative solutions and writing clean, efficient code. My expertise spans across multiple programming languages and frameworks, enabling me to build robust applications and tackle complex challenges. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and Machine Learning and Artificial Intelligence(AI) and BlockChain Technology. Holding a Bachelors Degree In Information Systems</p>
+    <p>Welcome to my GitHub profile! I'm Sandeep Joseph Justin, a passionate software developer with a knack for creating innovative solutions and writing clean, efficient code. My expertise spans across multiple programming languages and frameworks, enabling me to build robust applications and tackle complex challenges. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and Machine Learning and Artificial Intelligence(AI) and BlockChain Technology. Holding a Bachelors Degree In Information Systems</p>
 </div>
 
 <div align="center">
