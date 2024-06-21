@@ -36,9 +36,9 @@
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-007396?style=for-the-badge&logo=java&logoColor=white" alt="PHP" /> 
-  <img src="https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=java&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Dart-007396?style=for-the-badge&logo=java&logoColor=white" alt="Dart" />  
+  <img src="https://img.shields.io/badge/PHP-007396?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" /> 
+  <img src="https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-007396?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
