@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/joseph-justine-bis-isms-61634b26b/">
     <img src="https://img.shields.io/badge/Sandeep Justin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/zanepearton">
+  <a href="https://linktr.ee/SandeepJustin">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
 <a href="https://github.com/Sandeep-sketchy/Sandeep-sketchy" target="_blank">
