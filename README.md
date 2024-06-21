@@ -1,12 +1,12 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Joseph+Sandeep+Justin;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+    <p>I'm a Software Engineering specialist at Accenture with Malawian citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
 </div>
 
 <div align="center">
@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
+  <img src="https://img.shields.io/badge/Laravel-02569B?style=for-the-badge&logo=Laravel&logoColor=white%22%20alt="Laravel"/>  
 </div>
 
 <h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
