@@ -94,8 +94,8 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandeep-sketchy&theme=github_dark" alt="Sandeep Joseph Justin GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com?user=Sandeep-sketchy&theme=dark" alt="JSandeep Joseph Justin GitHub Streak" />></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandeepJustine&theme=github_dark" alt="Sandeep Joseph Justin GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com?user=SandeepJustine&theme=dark" alt="Sandeep Joseph Justin GitHub Streak" />></td>
     </tr>
  </table>
 
