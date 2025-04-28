@@ -19,10 +19,10 @@
   <a href="https://linktr.ee/SandeepJustin">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
-<a href="https://github.com/Sandeep-sketchy/Sandeep-sketchy" target="_blank">
+<a href="https://github.com/SandeepJustine/Sandeep-Justin-Bio" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Sandeep-sketchy&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sandeep-Justine&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -110,6 +110,6 @@
 </div>
 
 <!---
-Sandeep-sketchy/Sandeep-sketchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sandeep-Justine/Sandeep-Justine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
